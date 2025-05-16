@@ -1,0 +1,15 @@
+div{
+    margin: 100px auto;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    font-size: 30px;
+}
+
+div:hover{
+    transition-property: background-color;
+    background-color: white;
+    transform: rotate(30deg);
+}

@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    margin: 40px 100px 10px;
+    background-color: rgb(97, 87, 87);
+    width: 100px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.t1{
+    background-color: red;
+}
+
+.t2{
+    background-color: green;
+}
+
+.t3{
+    background-color: #e2d110;
+}
+
+.t1, .t2, .t3{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    
+}
+
+.t{
+    background-color:rgb(97, 87, 87) ;
+    border: 2px solid black;
+    width: 20px;
+    height: 150px;
+    margin-left: 150px;
+    margin-top: -10px;
+}

@@ -1,0 +1,19 @@
+.container{
+    width: 900px;
+    height: 50px;
+    background-color: darksalmon;
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+
+}
+
+.child{
+    width: 80px;
+    height: 50px;
+    font-size: 24px;
+    margin-left: 5px;
+    line-height: 50px;
+}

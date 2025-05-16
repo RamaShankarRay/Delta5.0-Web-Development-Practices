@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+.content{
+    width: 20%;
+    height: auto;
+    /* padding:0.5rem; */
+    margin: auto;
+    color: white;
+    background-color:rgb(198, 33, 33);
+    border: 2px solid rgb(47, 17, 216);
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.1rem;
+    font-weight: bolder;
+}
+
+form{
+    margin-bottom: 1rem;
+}
